@@ -1,0 +1,47 @@
+[
+  {
+    "problem": "Find the sum of all positive integers n < 100 such that n^2 ...",
+    "predicted": 1617,
+    "actual": 1617,
+    "correct": true,
+    "attempts": 3,
+    "verified": true,
+    "method": "modular_arithmetic"
+  },
+  {
+    "problem": "How many 4-digit numbers have digits that sum to 10?...",
+    "predicted": 219,
+    "actual": 219,
+    "correct": true,
+    "attempts": 2,
+    "verified": true,
+    "method": "sympy"
+  },
+  {
+    "problem": "What is the remainder when 2^100 is divided by 7?...",
+    "predicted": 2,
+    "actual": 2,
+    "correct": true,
+    "attempts": 3,
+    "verified": true,
+    "method": "modular_arithmetic"
+  },
+  {
+    "problem": "Find the number of ways to tile a 2x10 grid with 1x2 dominoe...",
+    "predicted": 89,
+    "actual": 89,
+    "correct": true,
+    "attempts": 3,
+    "verified": true,
+    "method": "brute_force"
+  },
+  {
+    "problem": "What is gcd(2^31 - 1, 2^17 - 1)?...",
+    "predicted": 131071,
+    "actual": 131071,
+    "correct": true,
+    "attempts": 1,
+    "verified": true,
+    "method": "sympy"
+  }
+]
