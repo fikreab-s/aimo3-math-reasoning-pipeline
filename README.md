@@ -1,6 +1,9 @@
-# 🧮 AIMO3 Math Reasoning Pipeline
+# Math Reasoning Pipeline (Kaggle AIMO)
 
-> Tool-Integrated Reasoning (TIR) pipeline for solving competition-level math problems using LLMs with Jupyter kernel execution, ensemble voting, and difficulty-aware resource allocation.
+> Tool-Integrated Reasoning (TIR) pipeline for competition-level math problems: LLM + Jupyter kernel execution with weighted voting and difficulty-aware resource allocation.
+>
+> **Context:** Kaggle competition entry applying the same systematic evaluation and ensemble methods used in commercial model development. Demonstrates rigorous approach to model selection and resource-constrained optimization.
+
 
 [![Python 3.10+](https://img.shields.io/badge/python-3.10+-blue.svg)](https://www.python.org/downloads/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
