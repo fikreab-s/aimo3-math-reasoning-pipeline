@@ -60,3 +60,6 @@ $$M_{\text{model}} = P \times \text{bytes/param}, \quad \text{MXFP4} \approx 0.5
 
 ## License
 MIT
+
+## 📸 Visual Tour
+
